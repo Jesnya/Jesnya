@@ -2,8 +2,8 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Cats Enjoyer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>  
 
 <!--  -->
 <img margin-top="100px" align="left" width=450px alt="Raiden" src="https://www.pngall.com/wp-content/uploads/15/Raiden-Shogun-PNG-Cutout.png"/>
@@ -17,8 +17,10 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - Working on Deep Learning & Machine Learning
 - Learning about Computer Vision and Machine Learning stuff
 - Main languages: Python, JavaScript
-- Interested in Full Stack Machine Learning Application development
+- Interested in Full Stack Machine Learning Application development  
 
+<br>
+<br>
 
 ## My Skills Include
 
@@ -69,6 +71,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
+<br>
+
 ## Check out my Social Media
 
 <a href= "https://www.instagram.com/s1mple_nya/">
@@ -83,15 +87,19 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <a href="https://open.spotify.com/user/31mnytavjhpyl6mg5fyh2k5noosy?si=451079ddf06a42c0">
   <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white alt="Spotify">
 </a>
+<br>
 
-<h2>Github stats:</h2> 
+<br><h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=jesnya&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/jesnya)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=jesnya&theme=material-palenight)](https://github.com/jesnya)
 </div>
 
+<br>
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
