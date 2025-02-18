@@ -13,7 +13,7 @@
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in Machine Learning and Data Science, and I work as a software developer at a company that creates systems for enterprises. I love to learn and build something new, productive, innovative and creative.
 - I am a self taught Full Stack Developer and a Machine Learning Developer
-- I have a Bachelors in System Engineering from the Universitaria de Colombia
+- I have a Bachelors in System Engineering
 - I have a strong interest in DS, DL and AI
 - Learning about Computer Vision and Machine Learning stuff
 - Main languages: Python, JavaScript
