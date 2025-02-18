@@ -7,7 +7,7 @@
 
 <!--  -->
 <img margin-top="100px" align="left" width=450px alt="Raiden" src="https://www.pngall.com/wp-content/uploads/15/Raiden-Shogun-PNG-Cutout.png"/>
-<br><br><br>
+<br><br>
 
 <img src="https://www.pngall.com/wp-content/uploads/15/Raiden-Shogun-PNG-Image.png" align="center" width="30px">&nbsp;***About me***
 <br>
