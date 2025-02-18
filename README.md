@@ -9,6 +9,7 @@
 <img margin-top="100px" align="left" width=450px alt="Raiden" src="https://www.pngall.com/wp-content/uploads/15/Raiden-Shogun-PNG-Cutout.png"/>
 
 <img src="https://www.pngall.com/wp-content/uploads/15/Raiden-Shogun-PNG-Image.png" align="center" width="30px">&nbsp;***About me***
+<br>
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in Machine Learning and Data Science, and I work as a software developer at a company that creates systems for enterprises. I love to learn and build something new, productive, innovative and creative.
 - I am a self taught Full Stack Developer and a Machine Learning Developer
