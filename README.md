@@ -10,14 +10,19 @@
 
 <img src="https://www.pngall.com/wp-content/uploads/15/Raiden-Shogun-PNG-Image.png" align="center" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in Machine Learning and Data Science, and I work as a software developer at a company that creates systems for enterprises. I love to learn and build something new, productive, innovative and creative.
-- I am a self taught Full Stack Developer and a Machine Learning Developer
-- I have a Bachelors in Computer Science from the University of Mumbai at India
-- I have a strong interest in Data Science and Artificial Intelligence
-- Working on Deep Learning & Machine Learning
-- Learning about Computer Vision and Machine Learning stuff
-- Main languages: Python, JavaScript
-- Interested in Full Stack Machine Learning Application development  
+<div>
+	I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in Machine Learning and Data Science, and I work as a software developer at a company that creates systems for enterprises. I love to learn and build something new, productive, innovative and creative.
+	<li>
+		<ul>- I am a self taught Full Stack Developer and a Machine Learning Developer</ul>
+		<ul>- I have a Bachelors in Computer Science from the University of Mumbai at India</ul>
+		<ul>- I have a strong interest in Data Science and Artificial Intelligence</ul>
+		<ul>- Working on Deep Learning & Machine Learning</ul>
+		<ul>- Learning about Computer Vision and Machine Learning stuff</ul>
+		<ul>- Main languages: Python, JavaScript</ul>
+		<ul>- Interested in Full Stack Machine Learning Application development </ul>
+	</li>
+</div>
+ 
 
 <br>
 <br>
