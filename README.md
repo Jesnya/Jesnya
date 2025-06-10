@@ -75,22 +75,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <br>
 
-## Check out my Social Media
-
-<a href= "https://www.instagram.com/s1mple_nya/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white alt="Instagram">
-</a>
-<a href="https://github.com/Jesnya" >
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/ricardoherrera2712/" >
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt="Linkedin">
-</a>
-<a href="https://open.spotify.com/user/31mnytavjhpyl6mg5fyh2k5noosy?si=451079ddf06a42c0">
-  <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white alt="Spotify">
-</a>
-<br>
-
 <br><h2>Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=jesnya&show_icons=true&theme=tokyonight&hide_border=true&locale=en&count_private=true)](https://github.com/jesnya)
